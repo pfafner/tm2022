@@ -47,6 +47,14 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [R. Wheeden y A. Zygmund (2015). *Measure and Integral*.](http://library.lol/main/2D2E5BF43FAE923F53F5D8C780FF6CC1){:target="_blank"}
 
+* [Cohn](){:target="_blank"}
+
+* [Folland](){:target="_blank"}
+
+* [Bogachev](){:target="_blank"}
+
+* [Halmos??, Royden??](){:target="_blank"}
+
 * [](){:target="_blank"}
 
 ### Artículos:
