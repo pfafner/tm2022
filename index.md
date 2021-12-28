@@ -51,7 +51,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 ### Artículos:
 
-* [](){:target="_blank"}
+* [R. Bartle (2018) *Return to Riemann Integral*.](https://www.tandfonline.com/doi/abs/10.1080/00029890.1996.12004798){:target="_blank"}
 
 * [](){:target="_blank"}
 
