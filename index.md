@@ -45,14 +45,14 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [H. Bauer (????). *Measure and Integration Theory*.](http://library.lol/main/8E48B32F8A03A4CD09C2071F40DA0482){:target="_blank"}
 
-* [J. M. Lee (2013). *Introduction to Smooth Manifolds*.](http://library.lol/main/00D8D81EDF732351D00BF90D16231216){:target="_blank"}
+* [R. Wheeden y A. Zygmund (2015). *Measure and Integral*.](http://library.lol/main/2D2E5BF43FAE923F53F5D8C780FF6CC1){:target="_blank"}
 
-* [J. M. Lee (2018). *Introduction to Riemmanian Manifolds*.](http://library.lol/main/FDE4E270BF68DEA8EC92CCD1D739FBED){:target="_blank"}
+* [](){:target="_blank"}
 
 ### Artículos:
 
-* [S. Walters (2016). *How Einstein Got His Field Equations*.](){:target="_blank"}
+* [](){:target="_blank"}
 
-* [A. Pe'er (2014). *Einstein’s field equation*.](){:target="_blank"}
+* [](){:target="_blank"}
 
 ---
