@@ -35,7 +35,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [R. Bartle (2011). *The Elements of Integration and Lebesgue Measure*.](http://library.lol/main/A1D515B51A9193224B31B0A47F3AA135){:target="_blank"}
 
-* [M. do Carmo (2016). *Differential Geometry of curves and surfaces*.](http://library.lol/main/31E323C7F16E529A2B0B9355A2FE3E31){:target="_blank"}
+* [W. Rudin (1987). *Real and Complex Analysis*.](http://library.lol/main/D9D636FAC19541905640F56164C8DA8A){:target="_blank"}
 
 ### Referencias adicionales:
 
