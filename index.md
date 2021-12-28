@@ -41,17 +41,9 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [E. Stein y R. Shakarchi (2012). *Real Analysis: Measure Theory, Integration and Hilbert Spaces*.](http://library.lol/main/E93A91B5366ACEEE18F3786D26068833){:target="_blank"}
 
-* [S. Montiel y A. Ros (2009). *Curves and Surfaces*.](http://library.lol/main/0A4400CD07A838BD0667C39248A378CF){:target="_blank"}
+* [R. Schilling (2017). *Measures, Integrals and Martingales*.](http://library.lol/main/70091F2937A5FA32E08795C3A3654837){:target="_blank"}
 
-* [B. O'neill (2006). *Elementary Differential Geometry*.](http://library.lol/main/28060EF7E136181D96ED01F7A5A05E5D){:target="_blank"}
-
-* [M. Spivak (2018). *Calculus on Manifolds: A modern approach*.](http://library.lol/main/EA5FD5AEB32C27C227649EB88448DAC1){:target="_blank"}
-
-* [M. do Carmo (2000). *Differential Forms and Applications*.](http://library.lol/main/CE7E2584D231805DB923859930650BCF){:target="_blank"}
-
-* [L. Tu (2011). *An Introduction to Manifolds*.](http://library.lol/main/67E1DE09798BBB7A9EC6CB30F67FA582){:target="_blank"}
-
-* [J. M. Lee (2013). *Introduction to Topological Manifolds*.](http://library.lol/main/E1C4A1720315F49A2BA40F5C9C959430){:target="_blank"}
+* [H. Bauer (????). *Measure and Integration Theory*.](http://library.lol/main/8E48B32F8A03A4CD09C2071F40DA0482){:target="_blank"}
 
 * [J. M. Lee (2013). *Introduction to Smooth Manifolds*.](http://library.lol/main/00D8D81EDF732351D00BF90D16231216){:target="_blank"}
 
@@ -59,8 +51,8 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 ### Artículos:
 
-* [S. Walters (2016). *How Einstein Got His Field Equations*.](https://arxiv.org/pdf/1608.05752.pdf){:target="_blank"}
+* [S. Walters (2016). *How Einstein Got His Field Equations*.](){:target="_blank"}
 
-* [A. Pe'er (2014). *Einstein’s field equation*.](http://www.physics.ucc.ie/apeer/PY4112/Einstein.pdf){:target="_blank"}
+* [A. Pe'er (2014). *Einstein’s field equation*.](){:target="_blank"}
 
 ---
