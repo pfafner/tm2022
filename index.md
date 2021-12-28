@@ -39,7 +39,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 ### Referencias adicionales:
 
-* [M. do Carmo (2015). *Geometria Riemanniana*.](http://library.lol/main/5AF1D617DE1FD78BFCC893F386EF19D7){:target="_blank"}
+* [E. Stein y R. Shakarchi (2012). *Real Analysis: Measure Theory, Integration and Hilbert Spaces*.](http://library.lol/main/E93A91B5366ACEEE18F3786D26068833){:target="_blank"}
 
 * [S. Montiel y A. Ros (2009). *Curves and Surfaces*.](http://library.lol/main/0A4400CD07A838BD0667C39248A378CF){:target="_blank"}
 
