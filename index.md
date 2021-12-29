@@ -51,7 +51,9 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [Folland](){:target="_blank"}
 
-* [Bogachev](){:target="_blank"}
+* [V. Bogachev (2007). *Measure Theory*, Vol. I.](http://library.lol/main/FFBDC7E3D8E571C6CD5F9E8633CDFDC2){:target="_blank"}
+
+* [V. Bogachev (2007). *Measure Theory*, Vol. II.](http://library.lol/main/37F8C8D6AA1131249E3F2B53157E40A5){:target="_blank"}
 
 * [H. Royden (2010). *Real Analysis*.](http://library.lol/main/467A74BDDE78CD0E1F9E470B01423B03){:target="_blank"}
 
