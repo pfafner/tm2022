@@ -49,6 +49,10 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [Cohn](){:target="_blank"}
 
+* [A. N. Kolmogorov y S. Fomin (1975). *Introductory Real Analysis*](http://library.lol/main/3A506B337A98982D529E33CC22A4A37C){:targe="_blank"}
+
+* [A. N. Kolmogorov y S. Fomin (1962). *Measure, Lebesgue Integrals and Hilbert Spaces*](http://library.lol/main/69A47D96629E2CE88EA8E89D6CB1B636){:targe="_blank"}
+
 * [G. Folland (1999). *Real Analysis and its Applications*.](http://library.lol/main/A52A695373B9289688FC9CE7835487EF){:target="_blank"}
 
 * [V. Bogachev (2007). *Measure Theory*, Vol. I.](http://library.lol/main/FFBDC7E3D8E571C6CD5F9E8633CDFDC2){:target="_blank"}
