@@ -53,9 +53,9 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [Bogachev](){:target="_blank"}
 
-* [P. Halmos (1974). *Measure Theory*](http://library.lol/main/00C4B0D76C69B67BEAC992F2EE26B0AF){:target="_blank"}
+* [H. Royden (2010). *Real Analysis*.](http://library.lol/main/467A74BDDE78CD0E1F9E470B01423B03){:target="_blank"}
 
-* [](){:target="_blank"}
+* [P. Halmos (1974). *Measure Theory*.](http://library.lol/main/00C4B0D76C69B67BEAC992F2EE26B0AF){:target="_blank"}
 
 ### Artículos:
 
