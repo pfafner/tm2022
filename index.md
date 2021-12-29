@@ -53,7 +53,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [Bogachev](){:target="_blank"}
 
-* [Halmos??, Royden??](){:target="_blank"}
+* [P. Halmos (1974). *Measure Theory*](http://library.lol/main/00C4B0D76C69B67BEAC992F2EE26B0AF){:target="_blank"}
 
 * [](){:target="_blank"}
 
