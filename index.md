@@ -49,7 +49,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [Cohn](){:target="_blank"}
 
-* [Folland](){:target="_blank"}
+* [G. Folland (1999). *Real Analysis and its Applications*.](http://library.lol/main/A52A695373B9289688FC9CE7835487EF){:target="_blank"}
 
 * [V. Bogachev (2007). *Measure Theory*, Vol. I.](http://library.lol/main/FFBDC7E3D8E571C6CD5F9E8633CDFDC2){:target="_blank"}
 
