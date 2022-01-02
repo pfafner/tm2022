@@ -43,7 +43,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [R. Schilling (2017). *Measures, Integrals and Martingales*.](http://library.lol/main/70091F2937A5FA32E08795C3A3654837){:target="_blank"}
 
-* [H. Bauer (????). *Measure and Integration Theory*.](http://library.lol/main/8E48B32F8A03A4CD09C2071F40DA0482){:target="_blank"}
+* [H. Bauer (20??). *Measure and Integration Theory*.](http://library.lol/main/8E48B32F8A03A4CD09C2071F40DA0482){:target="_blank"}
 
 * [R. Wheeden y A. Zygmund (2015). *Measure and Integral*.](http://library.lol/main/2D2E5BF43FAE923F53F5D8C780FF6CC1){:target="_blank"}
 
