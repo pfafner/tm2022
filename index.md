@@ -40,27 +40,29 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 ### Referencias adicionales:
 
+* [R. Bartle (1980). *Introducción al Análisis Matemático*.](http://library.lol/main/6FF57EE865C321AEDDAB8B294641BE91){:target="_blank"}
+
 * [W. Rudin (1987). *Real and Complex Analysis*.](http://library.lol/main/D9D636FAC19541905640F56164C8DA8A){:target="_blank"}
 
-* [E. Stein y R. Shakarchi (2012). *Real Analysis: Measure Theory, Integration and Hilbert Spaces*.](http://library.lol/main/E93A91B5366ACEEE18F3786D26068833){:target="_blank"}
+* [G. Folland (1999). *Real Analysis and its Applications*.](http://library.lol/main/A52A695373B9289688FC9CE7835487EF){:target="_blank"}
+
+* [H. Royden (2010). *Real Analysis*.](http://library.lol/main/467A74BDDE78CD0E1F9E470B01423B03){:target="_blank"}
 
 * [H. Bauer (2006). *Measure and Integration Theory*.](http://library.lol/main/8E48B32F8A03A4CD09C2071F40DA0482){:target="_blank"}
-
-* [R. Wheeden y A. Zygmund (2015). *Measure and Integral*.](http://library.lol/main/2D2E5BF43FAE923F53F5D8C780FF6CC1){:target="_blank"}
-
-* [Cohn](){:target="_blank"}
-
-* [A. N. Kolmogorov y S. Fomin (1975). *Introductory Real Analysis*](http://library.lol/main/3A506B337A98982D529E33CC22A4A37C){:targe="_blank"}
-
-* [A. N. Kolmogorov y S. Fomin (1962). *Measure, Lebesgue Integrals and Hilbert Spaces*](http://library.lol/main/69A47D96629E2CE88EA8E89D6CB1B636){:targe="_blank"}
-
-* [G. Folland (1999). *Real Analysis and its Applications*.](http://library.lol/main/A52A695373B9289688FC9CE7835487EF){:target="_blank"}
 
 * [V. Bogachev (2007). *Measure Theory*, Vol. I.](http://library.lol/main/FFBDC7E3D8E571C6CD5F9E8633CDFDC2){:target="_blank"}
 
 * [V. Bogachev (2007). *Measure Theory*, Vol. II.](http://library.lol/main/37F8C8D6AA1131249E3F2B53157E40A5){:target="_blank"}
 
-* [H. Royden (2010). *Real Analysis*.](http://library.lol/main/467A74BDDE78CD0E1F9E470B01423B03){:target="_blank"}
+* [E. Stein y R. Shakarchi (2012). *Real Analysis: Measure Theory, Integration and Hilbert Spaces*.](http://library.lol/main/E93A91B5366ACEEE18F3786D26068833){:target="_blank"}
+
+* [R. Wheeden y A. Zygmund (2015). *Measure and Integral*.](http://library.lol/main/2D2E5BF43FAE923F53F5D8C780FF6CC1){:target="_blank"}
+
+* [D. L. Cohn (2013). *Measure Theory*.](http://library.lol/main/2F37E55C5A9B4F14C5E64697DCF71306){:target="_blank"}
+
+* [A. N. Kolmogorov y S. Fomin (1962). *Measure, Lebesgue Integrals and Hilbert Spaces*](http://library.lol/main/69A47D96629E2CE88EA8E89D6CB1B636){:targe="_blank"}
+
+* [A. N. Kolmogorov y S. Fomin (1975). *Introductory Real Analysis*](http://library.lol/main/3A506B337A98982D529E33CC22A4A37C){:targe="_blank"}
 
 * [P. Halmos (1974). *Measure Theory*.](http://library.lol/main/00C4B0D76C69B67BEAC992F2EE26B0AF){:target="_blank"}
 
@@ -68,6 +70,6 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [R. Bartle (2018) *Return to Riemann Integral*.](https://www.tandfonline.com/doi/abs/10.1080/00029890.1996.12004798){:target="_blank"}
 
-* [E. Kowalski (20??) *Measure and Integral*.](https://people.math.ethz.ch/~kowalski/measure-integral.pdf){:target="_blank"}
+* [E. Kowalski (2016) *Measure and Integral*.](https://people.math.ethz.ch/~kowalski/measure-integral.pdf){:target="_blank"}
 
 ---
