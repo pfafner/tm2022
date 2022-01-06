@@ -35,15 +35,16 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 * [R. Bartle (2011). *The Elements of Integration and Lebesgue Measure*.](http://library.lol/main/A1D515B51A9193224B31B0A47F3AA135){:target="_blank"}
 
-* [W. Rudin (1987). *Real and Complex Analysis*.](http://library.lol/main/D9D636FAC19541905640F56164C8DA8A){:target="_blank"}
+* [R. Schilling (2017). *Measures, Integrals and Martingales*.](http://library.lol/main/70091F2937A5FA32E08795C3A3654837){:target="_blank"}
+
 
 ### Referencias adicionales:
 
+* [W. Rudin (1987). *Real and Complex Analysis*.](http://library.lol/main/D9D636FAC19541905640F56164C8DA8A){:target="_blank"}
+
 * [E. Stein y R. Shakarchi (2012). *Real Analysis: Measure Theory, Integration and Hilbert Spaces*.](http://library.lol/main/E93A91B5366ACEEE18F3786D26068833){:target="_blank"}
 
-* [R. Schilling (2017). *Measures, Integrals and Martingales*.](http://library.lol/main/70091F2937A5FA32E08795C3A3654837){:target="_blank"}
-
-* [H. Bauer (20??). *Measure and Integration Theory*.](http://library.lol/main/8E48B32F8A03A4CD09C2071F40DA0482){:target="_blank"}
+* [H. Bauer (2006). *Measure and Integration Theory*.](http://library.lol/main/8E48B32F8A03A4CD09C2071F40DA0482){:target="_blank"}
 
 * [R. Wheeden y A. Zygmund (2015). *Measure and Integral*.](http://library.lol/main/2D2E5BF43FAE923F53F5D8C780FF6CC1){:target="_blank"}
 
