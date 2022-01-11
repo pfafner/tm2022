@@ -38,6 +38,8 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 
 ### Referencias adicionales:
 
+* [Elon Lages Lima (2014). *Curso de Análise, Vol. I*.](http://library.lol/main/09C73EFC7EB9686BAE475FDB338C3720){:target="_blank"}
+
 * [R. Bartle (1980). *Introducción al Análisis Matemático*.](http://library.lol/main/6FF57EE865C321AEDDAB8B294641BE91){:target="_blank"}
 
 * [W. Rudin (1987). *Real and Complex Analysis*.](http://library.lol/main/D9D636FAC19541905640F56164C8DA8A){:target="_blank"}
