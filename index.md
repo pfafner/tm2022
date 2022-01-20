@@ -26,7 +26,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   01       | 10.01.2022   | Introducción <br/>                                                             | 
   02       | 12.01.2022   | Integral de Riemann e integral de Darboux. Limitaciones. <br/>                 | Ver Elon Lages, Curso de Análise I. 
   03       | 17.01.2022   | Integral de Riemann-Stieltjes. Ejemplos. <br/>                                 | Bartle, Cap. 29 integración.  
-  04       | 17.01.2022   | Propiedades de la Integral. <br/>                                              | Bartle, Cap. 29 integración.  
+  04       | 19.01.2022   | Propiedades de la Integral. <br/>                                              | Bartle, Cap. 29 integración.  
 
 
 # Referencias
