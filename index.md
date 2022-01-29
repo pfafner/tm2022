@@ -21,7 +21,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 10.01.2022   | Introducción <br/>                                                             | 
   02       | 12.01.2022   | Integral de Riemann e integral de Darboux. Limitaciones. <br/>                 | Ver Elon Lages, Curso de Análise I. 
@@ -29,6 +29,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   04       | 19.01.2022   | Propiedades de la Integral. <br/>                                              | Bartle, Cap. 29 integración.  
   05       | 24.01.2022   | Modificación de la Integral. Funciones de Variación Limitadas. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
   06       | 26.01.2022   | Criterio de Integrabilidad de Riemann <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
+  L1       | 29.01.2022   |                                                                                | 
 
 
 # Referencias
