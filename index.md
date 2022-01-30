@@ -29,7 +29,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   04       | 19.01.2022   | Propiedades de la Integral. <br/>                                              | Bartle, Cap. 29 integración.  
   05       | 24.01.2022   | Modificación de la Integral. Funciones de Variación Limitadas. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
   06       | 26.01.2022   | Criterio de Integrabilidad de Riemann <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
-  L1       | 29.01.2022   |                                                                                | 
+  L1       | 29.01.2022   |                                                                                | **[Lista de ejercicios 1](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Sábado 13 de febrero.**
   .        |              |                                                                     | 
 
 
