@@ -31,6 +31,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   06       | 26.01.2022   | Criterio de Integrabilidad de Riemann <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Bartle, Cap. 30.  
   L1       | 29.01.2022   |                                                                                | **[Lista de ejercicios 1](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 13 de febrero.**
   07       | 31.01.2022   | Teorema del Valor Medio. Teoremas de Convergencia Monótona y Limitada. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"}  | Bartle, Cap. 31.  
+  08       | 02.02.2022   |                                                                                |
 
 
 # Referencias
