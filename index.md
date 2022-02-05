@@ -32,6 +32,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L1       | 29.01.2022   |                                                                                | **[Lista de ejercicios 1](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 13 de febrero.**
   07       | 31.01.2022   | Teorema del Valor Medio. Teoremas de Convergencia Monótona y Limitada. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Bartle, Cap. 31.  
   08       | 02.02.2022   | La medida exterior de Lebesgue. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Royden, sección 2.2.
+  09       |              |                                                                                | 
 
 
 # Referencias
