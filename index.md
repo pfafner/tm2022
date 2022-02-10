@@ -33,6 +33,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   07       | 31.01.2022   | Teorema del Valor Medio. Teoremas de Convergencia Monótona y Limitada. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Bartle, Cap. 31.  
   08       | 02.02.2022   | La medida exterior de Lebesgue. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Royden, sección 2.2.
   09       | 07.02.2022   | Conjuntos mesurabes. La medida de Lebesgue. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Wheedon y Zygmund, Cap. 3.
+  10       | 09.02.2022   | La sigma-álgebra de Borel. Caracterización de mesurabilidad <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Wheedon y Zygmund, Cap. 3.
 
 
 # Referencias
