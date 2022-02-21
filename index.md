@@ -36,6 +36,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   10       | 09.02.2022   | La sigma-álgebra de Borel. Caracterizaciones de mesurabilidad. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Wheedon y Zygmund, Cap. 3.
   11       | 14.02.2022   | Existencia de conjuntos no Lebesgue-mesurables. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Wheedon y Zygmund, Cap. 3.
   12       | 16.02.2022   | Sigma álgebras. <br/>  |
+  13       |              |  |
 
 
 # Referencias
