@@ -35,7 +35,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   09       | 07.02.2022   | Conjuntos mesurabes. La medida de Lebesgue. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Wheedon y Zygmund, Cap. 3.
   10       | 09.02.2022   | La sigma-álgebra de Borel. Caracterizaciones de mesurabilidad. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Wheedon y Zygmund, Cap. 3.
   11       | 14.02.2022   | Existencia de conjuntos no Lebesgue-mesurables. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Wheedon y Zygmund, Cap. 3.
-  12       | 16.02.2022   | Sigma álgebras. Generadores de la sigma-álgebra de Borel. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} |
+  12       | 16.02.2022   | Sigma álgebras. Generadores de la sigma-álgebra de Borel. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Schilling, Cap 3.
   13       | 21.02.2022   | Lema de Clases Monótonas. lambda-sistemas y pi-sistemas. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |
 
 
