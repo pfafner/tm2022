@@ -38,7 +38,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   12       | 16.02.2022   | Sigma álgebras. Generadores de la sigma-álgebra de Borel. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Schilling, Cap 3.
   13       | 21.02.2022   | Lema de Clases Monótonas. lambda-sistemas y pi-sistemas. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Schilling, Cap 5.
   L2       | 27.02.2022   |                                                                                | **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 13 de marzo.**
-  14       | 23.02.2022   | Medidas. Definición y propiedades.  | Schilling, Cap 4.
+  14       | 23.02.2022   | Medidas. Definición y propiedades. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Schilling, Cap 4.
 
 
 # Referencias
