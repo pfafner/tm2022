@@ -39,6 +39,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   13       | 21.02.2022   | Lema de Clases Monótonas. lambda-sistemas y pi-sistemas. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Schilling, Cap 5.
   L2       | 27.02.2022   |                                                                                | **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 13 de marzo.**
   14       | 23.02.2022   | Medidas. Definición y propiedades. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Schilling, Cap 4.
+  15       | 28.02.2022   | Ejemplos de medidas. <br/>  | Schilling, Cap 4.
 
 
 # Referencias
