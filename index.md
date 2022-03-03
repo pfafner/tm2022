@@ -40,6 +40,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L2       | 27.02.2022   |                                                                                | **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 13 de marzo.**
   14       | 23.02.2022   | Medidas. Definición y propiedades. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Schilling, Cap 4.
   15       | 28.02.2022   | Ejemplos de medidas. <br/>  | Schilling, Cap 4.
+  16       | 02.03.2022   | Unicidad de Medidas. Invarianza de la medida de Lebesgue por traslaciones. <br/>  | Schilling, Cap 5.
 
 
 # Referencias
