@@ -42,7 +42,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   15       | 28.02.2022   | Ejemplos de medidas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Schilling, Cap 4.
   16       | 02.03.2022   | Unicidad de Medidas. Invarianza de la medida de Lebesgue por traslaciones. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"}  | Schilling, Cap 5.
   17       | 07.03.2022   | Existencia de Medidas. El Teorema de Carathéodory. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"}  | Schilling, Cap 6.
-  18       | 09.03.2022   | Prueba del Teorema de Carathéodory. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"}  | Schilling, Cap 6.
+  18       | 09.03.2022   | Prueba del Teorema de Carathéodory. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}  | Schilling, Cap 6.
 
 
 # Referencias
