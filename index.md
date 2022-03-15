@@ -44,6 +44,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   17       | 07.03.2022   | Existencia de Medidas. El Teorema de Carathéodory. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"}  | Schilling, Cap 6.
   18       | 09.03.2022   | Prueba del Teorema de Carathéodory I. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}  | Schilling, Cap 6.
   19       | 14.03.2022   | Prueba del Teorema de Carathéodory II. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}  | Schilling, Cap 6.
+  L3       |              |                                                                                |
   
 
 # Referencias
