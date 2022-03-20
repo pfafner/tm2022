@@ -45,6 +45,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   18       | 09.03.2022   | Prueba del Teorema de Carathéodory I. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}  | Schilling, Cap 6.
   19       | 14.03.2022   | Prueba del Teorema de Carathéodory II. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}  | Schilling, Cap 6.
   L3       |              |                                                                                |
+  20       | 16.03.2022   | Mapeos mesurables. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}  | Schilling, Cap 7.
   
 
 # Referencias
