@@ -46,8 +46,9 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   19       | 14.03.2022   | Prueba del Teorema de Carathéodory II. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}  | Schilling, Cap 6.
   L3       | 16.03.2022   |                                                                                | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Lunes 04 de abril.**
   20       | 16.03.2022   | Mapeos mesurables. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}  | Schilling, Cap 7.
-  21       | 21.03.2022   | La sigma-álgebra de Borel extendida. Funciones mesurables. Ejemplos <br/>  | Schilling, Cap 8.
-  
+  21       | 21.03.2022   | La sigma-álgebra de Borel extendida. Funciones mesurables. Ejemplos. <br/>  | Schilling, Cap 8.
+  22       | 23.03.2022   | Funciones simples. El *Sombrero Lemma*. <br/>  | Schilling, Cap 8.
+
 
 # Referencias
 <div id='id-ref'/>
