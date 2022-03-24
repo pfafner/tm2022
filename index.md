@@ -47,7 +47,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L3       | 16.03.2022   |                                                                                | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Lunes 04 de abril.**
   20       | 16.03.2022   | Mapeos mesurables. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}  | Schilling, Cap 7.
   21       | 21.03.2022   | La sigma-álgebra de Borel extendida. Funciones mesurables. Ejemplos. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Schilling, Cap 8.
-  22       | 23.03.2022   | Funciones simples. El *Sombrero Lemma*. <br/>  | Schilling, Cap 8.
+  22       | 23.03.2022   | Funciones simples. El *Sombrero Lemma*. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Schilling, Cap 8.
 
 
 # Referencias
