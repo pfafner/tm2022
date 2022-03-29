@@ -48,7 +48,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   20       | 16.03.2022   | Mapeos mesurables. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}  | Schilling, Cap 7.
   21       | 21.03.2022   | La sigma-álgebra de Borel extendida. Funciones mesurables. Ejemplos. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Schilling, Cap 8.
   22       | 23.03.2022   | Funciones simples. El *Sombrero Lemma*. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Schilling, Cap 8.
-  23       | 28.03.2022   | Corolarios al lema del Sombrero. Teorema de Clases monótonas para funciones.  |
+  23       | 28.03.2022   | Corolarios al lema del Sombrero. Teorema de Clases monótonas para funciones. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Schilling, Cap 8. 
   
 
 # Referencias
