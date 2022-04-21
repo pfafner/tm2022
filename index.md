@@ -51,6 +51,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   23       | 28.03.2022   | Corolarios al lema del Sombrero. Teorema de Clases monótonas para funciones. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Schilling, Cap 8. 
   24       | 04.04.2022   | Integración. Integral de funciones simples positivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Schilling, Cap 9.
   25       | 06.04.2022   | Integración de funciones mesurables positivas. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Schilling, Cap 9.
+  26       | 20.04.2022   | Integración de funciones mesurables. Espacios L1 y l1. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Schilling, Cap 9.
 
 # Referencias
 <div id='id-ref'/>
