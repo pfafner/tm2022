@@ -54,6 +54,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   26       | 20.04.2022   | Integración de funciones mesurables. Espacios L1 y l1. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Schilling, Cap 9.
 
 
+
 # Referencias
 <div id='id-ref'/>
 
