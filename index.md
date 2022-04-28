@@ -52,7 +52,8 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   24       | 04.04.2022   | Integración. Integral de funciones simples positivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Schilling, Cap 9.
   25       | 06.04.2022   | Integración de funciones mesurables positivas. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Schilling, Cap 9.
   26       | 20.04.2022   | Integración de funciones mesurables. Espacios L1 y l1. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Schilling, Cap 10.
-  27       | 25.04.2022   | Conjuntos de medida nula. Definición de c.t.p. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Schilling, Cap 11.
+  27       | 25.04.2022   | Conjuntos de medida nula. Definición de *c.t.p.* <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Schilling, Cap 11.
+  28       | 27.04.2022   | Teorema de Convergencia Monótona. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Schilling, Cap 11.
 
 
 
