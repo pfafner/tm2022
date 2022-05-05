@@ -77,11 +77,11 @@ Referencias del curso.
 
   **No.**  | **Tópicos**                                                         | **Material**
   -------- | ------------------------------------------------------------------- |  -------------------------------------
-  1        | Integrales impropias en la integral de Lebesgue.                    | Schilling Cap. 12
-  2        | El Teorema de Transformación de Jacobi.                             | Schilling Cap. 13
-  3        | Medidas de Hausdorff.                                               | Schilling Cap. 14
-  4        | El Teorema de Radón-Nikodym.                                        | Schilling Cap. 15
-  5        | El Teorema de Representación de Riesz.                              | Schilling Cap. 16
+  1        | La Integral de Kurzweil-Henstock.                                   | 
+  2        | El Teorema de Transformación de Jacobi.                             | Schilling Cap. 16
+  3        | Medidas de Hausdorff.                                               | Schilling Cap. 18
+  4        | El Teorema de Radón-Nikodym.                                        | Schilling Cap. 20
+  5        | El Teorema de Representación de Riesz.                              | Schilling Cap. 21
 
 
 # Presentaciones del seminario 
@@ -89,12 +89,12 @@ Referencias del curso.
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  01       | 18.04.2022   |   | 
-  02       | 18.04.2022   |   | 
-  03       | 18.04.2022   |   | 
-  04       | 20.04.2022   |   | 
-  05       | 20.04.2022   |   | 
-  06       | 20.04.2022   |   | 
+  .        | 09.05.2022   | Enviar correo con el tema elegido.                    | 
+  01       | 23.05.2022   | Expositor 1.  | 
+  02       | 25.05.2022   | Expositor 2.  | 
+  03       | 30.05.2022   | Expositor 3.  | 
+  04       | 01.06.2022   | Expositor 4.  | 
+  .        | 03.06.2022   | Última fecha para entrega de informe y presentación.  | 
 
 
 ### Referencias adicionales:
