@@ -75,13 +75,26 @@ Recursos: <br/>
 Referencias del curso.
 
 
-  **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
-  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  P1       | 16.03.2022   | Primer proyecto <br/> [Proyecto 1](proyecto/proyecto1.pdf){:target="_blank"} | Coordenadas de estaciones <br/> [stations.json](proyecto/stations.json){:target="_blank"} [stations.csv](proyecto/stations.csv){:target="_blank"}  
-  .        | 18.04.2022   | Presentaciones                                                      | 
-  .        | 20.04.2022   | Presentaciones                                                      | 
-  .        | 21.04.2022   | Entrega del reporte, código y presentación.                         | 
+  **No.**  | **Tópicos**                                                         | **Material**
+  -------- | ------------------------------------------------------------------- |  -------------------------------------
+  1        | Integrales impropias en la integral de Lebesgue.                    | Schilling Cap. 12
+  2        | El Teorema de Transformación de Jacobi.                             | Schilling Cap. 13
+  3        | Medidas de Hausdorff.                                               | Schilling Cap. 14
+  4        | El Teorema de Radón-Nikodym.                                        | Schilling Cap. 15
+  5        | El Teorema de Representación de Riesz.                              | Schilling Cap. 16
 
+
+# Presentaciones del seminario 
+<div id='id-sem1'/>
+
+  **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
+  -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
+  01       | 18.04.2022   |   | 
+  02       | 18.04.2022   |   | 
+  03       | 18.04.2022   |   | 
+  04       | 20.04.2022   |   | 
+  05       | 20.04.2022   |   | 
+  06       | 20.04.2022   |   | 
 
 
 ### Referencias adicionales:
