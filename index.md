@@ -77,7 +77,7 @@ Referencias del curso.
 
   **No.**  | **Tópicos**                                                         | **Material**
   -------- | ------------------------------------------------------------------- |  -------------------------------------
-  1        | La Integral de Kurzweil-Henstock.                                   | 
+  1        | La Integral de Kurzweil-Henstock.                                   | [Notas 1](https://fse.studenttheses.ub.rug.nl/11862/1/The_Henstock-Kurzweil_integral.pdf){:target="_blank"} <br/> [Notas 2](https://math.unm.edu/~crisp/courses/math402/spring15/HKintegralStevenJocelyn.pdf){:target="_blank"}
   2        | El Teorema de Transformación de Jacobi.                             | Schilling Cap. 16
   3        | Medidas de Hausdorff.                                               | Schilling Cap. 18
   4        | El Teorema de Radón-Nikodym.                                        | Schilling Cap. 20
