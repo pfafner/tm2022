@@ -67,6 +67,23 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
 * [R. Schilling (2017). *Measures, Integrals and Martingales*.](http://library.lol/main/70091F2937A5FA32E08795C3A3654837){:target="_blank"}
 
 
+# Seminarios
+<div id='id-prj1'/>
+
+Temas específicos de teoría de la medida. Cada estudiante deberá presentar un capítulo y tema elegido. <br/>
+Recursos: <br/>
+Referencias del curso.
+
+
+  **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
+  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
+  P1       | 16.03.2022   | Primer proyecto <br/> [Proyecto 1](proyecto/proyecto1.pdf){:target="_blank"} | Coordenadas de estaciones <br/> [stations.json](proyecto/stations.json){:target="_blank"} [stations.csv](proyecto/stations.csv){:target="_blank"}  
+  .        | 18.04.2022   | Presentaciones                                                      | 
+  .        | 20.04.2022   | Presentaciones                                                      | 
+  .        | 21.04.2022   | Entrega del reporte, código y presentación.                         | 
+
+
+
 ### Referencias adicionales:
 
 * [Elon Lages Lima (2014). *Curso de Análise, Vol. I*.](http://library.lol/main/09C73EFC7EB9686BAE475FDB338C3720){:target="_blank"}
