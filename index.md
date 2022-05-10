@@ -55,7 +55,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   27       | 25.04.2022   | Conjuntos de medida nula. Definición de *c.t.p.* <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Schilling, Cap 11.
   28       | 27.04.2022   | Teorema de Convergencia Monótona. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Schilling, Cap 12.
   29       | 04.04.2022   | Teorema de Convergencia Dominada. Diferencias entre la integral de Riemann y la Integral de Lebesgue. <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Schilling, Cap 12.
-  30       | 09.04.2022   | Aplicaciones: Lemas de Continuidad y Diferenciabilidad. Teorema de Convergencia Dominada. Diferencias entre la integral de Riemann y la Integral de Lebesgue. <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Schilling, Cap 12.
+  30       | 09.04.2022   | Aplicaciones: Lemas de Continuidad y Diferenciabilidad. Integrales impropias. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Schilling, Cap 12.
 
 # Referencias
 <div id='id-ref'/>
@@ -87,13 +87,12 @@ Referencias del curso.
 # Presentaciones del seminario 
 <div id='id-sem1'/>
 
-  **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
-  -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  .        | 09.05.2022   | Enviar correo con el tema elegido.                    | 
-  01       | 23.05.2022   | Expositor 1.  | 
-  02       | 25.05.2022   | Expositor 2.  | 
-  03       | 30.05.2022   | Expositor 3.  | 
-  04       | 01.06.2022   | Expositor 4.  | 
+  **No.**  | **Fecha**    | **Expositor**                            | **Tópicos**
+  -------- | ------------ | ---------------------------------------- | -------------------------------------
+  01       | ??.05.2022   | Expositor 1.    | 
+  02       | ??.05.2022   | Rudik           | Medidas de Hausdorff. 
+  03       | ??.05.2022   | Rafael          | 
+  04       | ??.06.2022   | Carlos          | La Integral de Kurzweil-Henstock.
   .        | 03.06.2022   | Última fecha para entrega de informe y presentación.  | 
 
 
