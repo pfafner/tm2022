@@ -91,7 +91,7 @@ Referencias del curso.
   -------- | ------------ | ---------------------------------------- | -------------------------------------
   01       | ??.05.2022   | Expositor 1.    | 
   02       | ??.05.2022   | Rudik           | Medidas de Hausdorff. 
-  03       | ??.05.2022   | Rafael          | 
+  03       | ??.05.2022   | Rafael          | El Teorema de Radon-Nikodym.
   04       | ??.06.2022   | Carlos          | La Integral de Kurzweil-Henstock.
   .        | 03.06.2022   | Última fecha para entrega de informe y presentación.  | 
 
