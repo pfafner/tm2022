@@ -55,7 +55,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   27       | 25.04.2022   | Conjuntos de medida nula. Definición de *c.t.p.* <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Schilling, Cap 11.
   28       | 27.04.2022   | Teorema de Convergencia Monótona. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Schilling, Cap 12.
   29       | 04.04.2022   | Teorema de Convergencia Dominada. Diferencias entre la integral de Riemann y la Integral de Lebesgue. <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Schilling, Cap 12.
-
+  30       | 09.04.2022   | Aplicaciones: Lemas de Continuidad y Diferenciabilidad. Teorema de Convergencia Dominada. Diferencias entre la integral de Riemann y la Integral de Lebesgue. <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Schilling, Cap 12.
 
 # Referencias
 <div id='id-ref'/>
