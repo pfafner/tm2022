@@ -54,9 +54,10 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   26       | 20.04.2022   | Integración de funciones mesurables. Espacios L1 y l1. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Schilling, Cap 10.
   27       | 25.04.2022   | Conjuntos de medida nula. Definición de *c.t.p.* <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Schilling, Cap 11.
   28       | 27.04.2022   | Teorema de Convergencia Monótona. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Schilling, Cap 12.
-  29       | 04.04.2022   | Teorema de Convergencia Dominada. Diferencias entre la integral de Riemann y la Integral de Lebesgue. <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Schilling, Cap 12.
-  30       | 09.04.2022   | Lemas de Continuidad y Diferenciabilidad. Integrales impropias. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Schilling, Cap 12.
-  31       | 09.04.2022   | Espacios Lp. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Bartle, Cap 6. Schilling, Cap 13.
+  29       | 04.05.2022   | Teorema de Convergencia Dominada. Diferencias entre la integral de Riemann y la Integral de Lebesgue. <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Schilling, Cap 12.
+  30       | 09.05.2022   | Lemas de Continuidad y Diferenciabilidad. Integrales impropias. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Schilling, Cap 12.
+  31       | 11.05.2022   | Espacios Lp. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Bartle, Cap 6. Schilling, Cap 13.
+  32       | 16.05.2022   | Modos de convergencia. <br/>  | Bartle, Cap 7.
   
   
 # Referencias
