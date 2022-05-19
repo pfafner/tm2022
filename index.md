@@ -58,6 +58,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   30       | 09.05.2022   | Lemas de Continuidad y Diferenciabilidad. Integrales impropias. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Schilling, Cap 12.
   31       | 11.05.2022   | Espacios Lp. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Bartle, Cap 6. Schilling, Cap 13.
   32       | 16.05.2022   | Modos de convergencia. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Bartle, Cap 7.
+  33       | 18.05.2022   | Medidas producto. Teorema de Tonelli. Teorema de Fubini. <br/> [Aula 33](aulas/Aula33.pdf){:target="_blank"} | Bartle, Cap 9.
   
   
 # Referencias
