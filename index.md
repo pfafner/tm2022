@@ -97,7 +97,7 @@ Referencias del curso.
   02       | 25.05.2022   | Rudik Rompich          | Medidas de Hausdorff. 
   03       | 30.05.2022   | Rafael Dubois          | El Teorema de Radon-Nikodym.
   04       | 01.06.2022   | Carlos Martínez        | La Integral de Kurzweil-Henstock.
-  .        | 03.06.2022   | Última fecha para entrega de informe y presentación.  | 
+  .        | 03.06.2022   | Última fecha para entrega de informe y presentación. | 
 
 
 ### Referencias adicionales:
